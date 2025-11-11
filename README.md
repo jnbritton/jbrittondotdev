@@ -1,7 +1,6 @@
 # jackbritton.dev
 
-A minimalist personal site and creative portfolio for Jack Britton.  
-Built with React, Vite, and Tailwind CSS.
+A minimalist personal site and creative portfolio for me to host my dumb things. I built it with React, Vite, and Tailwind CSS.
 
 ## Overview
 
