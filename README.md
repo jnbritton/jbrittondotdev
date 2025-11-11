@@ -2,10 +2,6 @@
 
 A minimalist personal site and creative portfolio for me to host my dumb things. I built it with React, Vite, and Tailwind CSS.
 
-## Overview
-
-The site features a dithered topographical animation on the home page, a projects gallery, and a detailed portfolio entry for *Zero One One* — a D&D character art concept set in a sci-fi western world.
-
 ## Structure
 
 ```
